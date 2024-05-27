@@ -7,7 +7,7 @@
 💻 Trabalho atualmente em dois projetos: Visibilidade para Fórmula E e Blue Future.<br>
 📖 Recentemente aprendendo: POO e Banco de Dados. <br>
 
-### Você pode entrar em contato comigo:
+### Você pode entrar em contato comigo: 
 <div> 
 
  <a href="https://discord.com/channels/1209496138751676526/1209825380379398175" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
