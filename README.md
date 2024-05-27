@@ -5,7 +5,7 @@
 👋 Oi! Meu username é helofleury.<br>
 🚀 Apaixonada em desenvolver soluções significativas.<br>
 💻 Trabalho atualmente em dois projetos: Visibilidade para Fórmula E e Blue Future.<br>
-📖 Recentemente aprendendo: POO and WINDOWSFORMS. <br>
+📖 Recentemente aprendendo: POO e Banco de Dados. <br>
 
 ### Você pode entrar em contato comigo:
 <div> 
