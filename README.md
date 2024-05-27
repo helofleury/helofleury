@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim 🙃
 
-👋 Oi! Meu username é helofleury.<br>
+📚 Recentemente estudando na Fiap e na Etec.<br>
 🚀 Apaixonada em desenvolver soluções significativas.<br>
 💻 Trabalho atualmente em dois projetos: Visibilidade para Fórmula E e Blue Future.<br>
 📖 Recentemente aprendendo: POO e Banco de Dados. <br>
