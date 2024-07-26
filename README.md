@@ -4,8 +4,7 @@
 
 📚 Recentemente estudando na Fiap e na Etec.<br>
 🚀 Apaixonada em desenvolver soluções significativas.<br>
-💻 Trabalho atualmente em dois projetos: Visibilidade para Fórmula E e Blue Future.<br>
-📖 Recentemente aprendendo: POO e Banco de Dados. <br>
+📖 Recentemente aprendendo: Java <br>
 
 ### Você pode entrar em contato comigo: 
 <div> 
