@@ -2,7 +2,8 @@
 
 ### Um pouco sobre mim 🙃
 
-📚 Recentemente estudando na Fiap e na Etec.<br>
+📚 Recentemente graduando Engenharia de Software na Fiap .<br>
+📚 Formada em Desenvolvimento de Sistemas pela ETEC .<br>
 🚀 Apaixonada em desenvolver soluções significativas.<br>
 📖 Recentemente aprendendo: Java <br>
 
