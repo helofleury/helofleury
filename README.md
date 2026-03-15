@@ -45,8 +45,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helofleury&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=helofleury&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)<br>
 
-Em constante aprendizado como estudante de Engenharia de Software e Desenvolvimento de Sistemas.
-
 ### Meu passatempo favorito é assistir séries ⏳
 
 ![Alt Text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdawMaZtPrf4EmBArR2eTHgWqAYOhjeVFvZoYOqsvmYEyR_bJaldnkMvqPc3hl3Z0DVXwQgnhPQLLYz5yx2Xcx3cYDOCN9ON8fJ4PzY6KGh_D0TyXNAOq8Y9IMCwDh0RnS9u2mmBqpZBD/s1600/tumblr_lfjn5xh7Hv1qa6ql2o1_500.gif)
